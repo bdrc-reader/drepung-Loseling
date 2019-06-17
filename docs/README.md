@@ -1,6 +1,6 @@
 # དྲ་རྒྱའི་ནང་སྒྲིག་སྟངས་ཀྱི་དཔེ་མཚོན།
 
-![image alt text](https://raw.githubusercontent.com/bdrc-reader/MenriLing/master/docs/img/menriling.jpg)
+![image alt text](https://raw.githubusercontent.com/bdrc-reader/drepung-Loseling/master/docs/img/loseling.jpg)
 
 <br>
 <br>
