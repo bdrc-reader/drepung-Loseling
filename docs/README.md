@@ -1,6 +1,5 @@
 <p align="center">
-  <span>མདུན་ངོས།</span> •
-  <a href="https://bdrc-reader.github.io/drepung-loseling/zindra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> •
+  <span>མདུན་ངོས།</span> • <a href="https://bdrc-reader.github.io/drepung-loseling/zindra">འཛིན་གྲྭ་དང་སྦྱོང་བྱ་ཁག</a> •
   <a href="https://bdrc-reader.github.io/drepung-loseling/doncha">གྲྭ་ཚང་གི་འདོན་ཆའི་སྐོར།</a> •
   <a href="https://bdrc-reader.github.io/drepung-loseling/sungbum">བློ་གསལ་གླིང་དང་འབྲེལ་བའི་གསུང་འབུམ་ཁག</a>
   </p>
