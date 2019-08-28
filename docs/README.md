@@ -9,12 +9,10 @@
 ![image alt text](https://raw.githubusercontent.com/bdrc-reader/drepung-Loseling/master/docs/img/loseling.jpg)
 
 <br>
-<br>
 
 # བློ་གསལ་གླིང་གྲྭ་ཚང་གི་ངོ་སྤྲོད་མདོར་བསྡུས།
  
  ངོ་སྤྲོད་འབྲི་དགོས།
-
 <br>
 
 ### ༡ འབྲས་སྤུངས་བློ་གསལ་གླིང་གྲྭ་ཚང་གི་དྲ་ཚིགས་ལ་གཟིགས། [དྲ་ཚིགས།](https://bdrc-reader.github.io/drepung-loseling/)
